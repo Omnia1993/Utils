@@ -2,10 +2,9 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Pattren
+namespace UtilsClass
 {
     class Utils
-
     {
 
         public static string GetInput(string prompt)
