@@ -2,8 +2,8 @@
 
   <PropertyGroup>
     <OutputType>Exe</OutputType>
-    <TargetFramework>netcoreapp3.1</TargetFramework>
-    <StartupObject>Mosh.Car</StartupObject>
+    <TargetFramework>Conditional.Class1</TargetFramework>
+    <StartupObject>Conditional.Class1</StartupObject>
   </PropertyGroup>
 
 </Project>
