@@ -25,7 +25,7 @@ namespace Lab2
                 }
                 else
                    {
-                     
+                   
                     Console.WriteLine("Bad input. Try again");
                 }
             } while (true);
