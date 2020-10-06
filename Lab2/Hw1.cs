@@ -10,14 +10,12 @@ namespace Lab2
         {
             int sum;
             Console.WriteLine("Enter number1");
-            int num1;
-           
-            num1 = Convert.ToInt32(Console.Read());
+            int num1 , num2;
+            num1 = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("Enter number2");
-            int num2 = Convert.ToInt32(Console.Read());
+            num2 = Convert.ToInt32(Console.ReadLine());
             sum = num1 + num2;
-
-            Console.WriteLine("sumation"+sum);
+            Console.WriteLine("{0}={1} plus {2}",sum,num1,num2);
 
 
         }

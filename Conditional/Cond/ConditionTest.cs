@@ -10,6 +10,8 @@ namespace Cond
             Exercise2();
             Exercise3();
             Exercise4();
+           
+
         }
         /// <summary>
         /// Write a program and ask the user to enter a number. The number should be between 1 to 10. If the user enters 
@@ -18,6 +20,7 @@ namespace Cond
         /// </summary>
         public static void Exercise1()
         {
+
             Console.Write("Enter a number between 1 to 10: ");
             var input = Console.ReadLine();
             var number = Convert.ToInt32(input);
